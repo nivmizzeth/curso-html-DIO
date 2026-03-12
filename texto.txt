@@ -1,0 +1,10 @@
+Tags basicas html
+
+h1 até h6 - titulos/cabeçalhos
+p - paragrafos
+blockquote - define um texto em formato de citação
+ul e ol - listas ordenadas/não ordenadas cada item dentro da lista tem que usar a tag lista
+a - criar link, href atributo para apontar o link, title caixa de texto ao passar o mouse no link, target abre o link em uma nova aba o (_blank) ou na msma aba (_self)
+img - tag vazia, adiciona uma imagem, src atributo para definir o link da imagem, pode usar atributos width ou heigth para definir altura e largura da imagem
+strong - cria negrito no texto
+i - cria italico no texto
