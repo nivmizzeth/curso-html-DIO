@@ -8,3 +8,4 @@ a - criar link, href atributo para apontar o link, title caixa de texto ao passa
 img - tag vazia, adiciona uma imagem, src atributo para definir o link da imagem, pode usar atributos width ou heigth para definir altura e largura da imagem
 strong - cria negrito no texto
 i - cria italico no texto
+hr - tag vazia cria uma linha
